@@ -8,6 +8,7 @@
  
  1.  Front end
  2.  Back end
+
 The flow was quite well until the first assignment that challenges set in.
 
 It really took me a very long time for to come understand what I was to do for my assignment, 
